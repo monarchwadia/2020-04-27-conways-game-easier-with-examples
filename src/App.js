@@ -40,9 +40,9 @@ class App extends Component {
     ))
   
     return (
-      <div className="App">
+      <pre className="App">
         { world }
-      </div>
+      </pre>
     );
   }
 }
