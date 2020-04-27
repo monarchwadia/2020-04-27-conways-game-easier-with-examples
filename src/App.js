@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { ConwaysGameEngine } from '@monarchwadia/conways-game-engine';
-import './App.css';
 
 class App extends Component {
   state = {
