@@ -4,6 +4,8 @@
 
 Start here:
 
+NO MORE TWITCH! We will be doing this strictly via chat on Discord.
+
 1. Read [General Information](./General%20Information.md)
 2. Read [Challenge](./Challenge.md)
 3. Fork this repo, clone it, and get started! 
